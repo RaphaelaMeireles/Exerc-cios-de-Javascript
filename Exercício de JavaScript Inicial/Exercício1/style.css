@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+button{
+    background-color: rgb(160, 92, 223);
+    color: white;
+    height: 70px;
+    width: 200px;
+}
